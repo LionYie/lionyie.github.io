@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>http://lionyie.github.io/</link>
+        <description>这是我的网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 21 May 2023 12:08:23 &#43;0000</lastBuildDate>
+            <atom:link href="http://lionyie.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>http://lionyie.github.io/first_post/</link>
+    <pubDate>Sun, 21 May 2023 12:08:23 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://lionyie.github.io/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
